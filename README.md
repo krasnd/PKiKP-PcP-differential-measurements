@@ -5,4 +5,4 @@ The datafile includes the following data:
 STA - station code
 Dist - epicentral distance in degrees
 AmpRatio - measured PKiKP/PcP amplitude ratio (dimensionless)
-dT - measured PKiKP-PcP travel time 
+dT - measured PKiKP-PcP travel time (seconds)
